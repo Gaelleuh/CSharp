@@ -1,0 +1,14 @@
+C:\Users\Administrateur\Documents\01_C_SharpBases\Exercices\Exo03\bin\Debug\net8.0\Exo03.exe
+C:\Users\Administrateur\Documents\01_C_SharpBases\Exercices\Exo03\bin\Debug\net8.0\Exo03.deps.json
+C:\Users\Administrateur\Documents\01_C_SharpBases\Exercices\Exo03\bin\Debug\net8.0\Exo03.runtimeconfig.json
+C:\Users\Administrateur\Documents\01_C_SharpBases\Exercices\Exo03\bin\Debug\net8.0\Exo03.dll
+C:\Users\Administrateur\Documents\01_C_SharpBases\Exercices\Exo03\bin\Debug\net8.0\Exo03.pdb
+C:\Users\Administrateur\Documents\01_C_SharpBases\Exercices\Exo03\obj\Debug\net8.0\Exo03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Documents\01_C_SharpBases\Exercices\Exo03\obj\Debug\net8.0\Exo03.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Documents\01_C_SharpBases\Exercices\Exo03\obj\Debug\net8.0\Exo03.AssemblyInfo.cs
+C:\Users\Administrateur\Documents\01_C_SharpBases\Exercices\Exo03\obj\Debug\net8.0\Exo03.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\01_C_SharpBases\Exercices\Exo03\obj\Debug\net8.0\Exo03.dll
+C:\Users\Administrateur\Documents\01_C_SharpBases\Exercices\Exo03\obj\Debug\net8.0\refint\Exo03.dll
+C:\Users\Administrateur\Documents\01_C_SharpBases\Exercices\Exo03\obj\Debug\net8.0\Exo03.pdb
+C:\Users\Administrateur\Documents\01_C_SharpBases\Exercices\Exo03\obj\Debug\net8.0\Exo03.genruntimeconfig.cache
+C:\Users\Administrateur\Documents\01_C_SharpBases\Exercices\Exo03\obj\Debug\net8.0\ref\Exo03.dll
