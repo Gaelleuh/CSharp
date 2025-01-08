@@ -1,0 +1,15 @@
+C:\Users\Administrateur\Documents\01_C_SharpBases\Exercices\Exo26\bin\Debug\net8.0\Exo26.exe
+C:\Users\Administrateur\Documents\01_C_SharpBases\Exercices\Exo26\bin\Debug\net8.0\Exo26.deps.json
+C:\Users\Administrateur\Documents\01_C_SharpBases\Exercices\Exo26\bin\Debug\net8.0\Exo26.runtimeconfig.json
+C:\Users\Administrateur\Documents\01_C_SharpBases\Exercices\Exo26\bin\Debug\net8.0\Exo26.dll
+C:\Users\Administrateur\Documents\01_C_SharpBases\Exercices\Exo26\bin\Debug\net8.0\Exo26.pdb
+C:\Users\Administrateur\Documents\01_C_SharpBases\Exercices\Exo26\obj\Debug\net8.0\Exo26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Documents\01_C_SharpBases\Exercices\Exo26\obj\Debug\net8.0\Exo26.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Documents\01_C_SharpBases\Exercices\Exo26\obj\Debug\net8.0\Exo26.AssemblyInfo.cs
+C:\Users\Administrateur\Documents\01_C_SharpBases\Exercices\Exo26\obj\Debug\net8.0\Exo26.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\01_C_SharpBases\Exercices\Exo26\obj\Debug\net8.0\Exo26.sourcelink.json
+C:\Users\Administrateur\Documents\01_C_SharpBases\Exercices\Exo26\obj\Debug\net8.0\Exo26.dll
+C:\Users\Administrateur\Documents\01_C_SharpBases\Exercices\Exo26\obj\Debug\net8.0\refint\Exo26.dll
+C:\Users\Administrateur\Documents\01_C_SharpBases\Exercices\Exo26\obj\Debug\net8.0\Exo26.pdb
+C:\Users\Administrateur\Documents\01_C_SharpBases\Exercices\Exo26\obj\Debug\net8.0\Exo26.genruntimeconfig.cache
+C:\Users\Administrateur\Documents\01_C_SharpBases\Exercices\Exo26\obj\Debug\net8.0\ref\Exo26.dll
