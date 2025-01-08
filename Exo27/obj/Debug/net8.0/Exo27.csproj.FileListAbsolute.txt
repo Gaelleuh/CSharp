@@ -1,0 +1,15 @@
+C:\Users\Administrateur\Documents\01_C_SharpBases\Exercices\Exo27\bin\Debug\net8.0\Exo27.exe
+C:\Users\Administrateur\Documents\01_C_SharpBases\Exercices\Exo27\bin\Debug\net8.0\Exo27.deps.json
+C:\Users\Administrateur\Documents\01_C_SharpBases\Exercices\Exo27\bin\Debug\net8.0\Exo27.runtimeconfig.json
+C:\Users\Administrateur\Documents\01_C_SharpBases\Exercices\Exo27\bin\Debug\net8.0\Exo27.dll
+C:\Users\Administrateur\Documents\01_C_SharpBases\Exercices\Exo27\bin\Debug\net8.0\Exo27.pdb
+C:\Users\Administrateur\Documents\01_C_SharpBases\Exercices\Exo27\obj\Debug\net8.0\Exo27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Documents\01_C_SharpBases\Exercices\Exo27\obj\Debug\net8.0\Exo27.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Documents\01_C_SharpBases\Exercices\Exo27\obj\Debug\net8.0\Exo27.AssemblyInfo.cs
+C:\Users\Administrateur\Documents\01_C_SharpBases\Exercices\Exo27\obj\Debug\net8.0\Exo27.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\01_C_SharpBases\Exercices\Exo27\obj\Debug\net8.0\Exo27.sourcelink.json
+C:\Users\Administrateur\Documents\01_C_SharpBases\Exercices\Exo27\obj\Debug\net8.0\Exo27.dll
+C:\Users\Administrateur\Documents\01_C_SharpBases\Exercices\Exo27\obj\Debug\net8.0\refint\Exo27.dll
+C:\Users\Administrateur\Documents\01_C_SharpBases\Exercices\Exo27\obj\Debug\net8.0\Exo27.pdb
+C:\Users\Administrateur\Documents\01_C_SharpBases\Exercices\Exo27\obj\Debug\net8.0\Exo27.genruntimeconfig.cache
+C:\Users\Administrateur\Documents\01_C_SharpBases\Exercices\Exo27\obj\Debug\net8.0\ref\Exo27.dll
